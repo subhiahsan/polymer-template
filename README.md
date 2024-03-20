@@ -137,6 +137,7 @@ just switch-client
 Check if the packet got through on the [Polymer IBC explorer](https://sepolia.polymer.zone/packets).
 
 
+.
 ## 💻 Develop your custom application
 
 The main work for you as a developer is to develop the contracts that make up your cross-chain logic.
