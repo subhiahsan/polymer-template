@@ -97,6 +97,7 @@ You can find the universal channel middleware details [in the documentation](htt
 
 Check if the packet got through on the [Polymer IBC explorer](https://sepolia.polymer.zone/packets).
 
+.
 ### Custom IBC channel
 
 There's also a just recipe that quickly enables to try to send packets over a custom IBC channel. Custom IBC channel require a channel hanshake to open a private IBC channel (which can take a while depending on the client latency) but then give complete control over a private IBC channel that enables fault isolation from other applications, compared to unviersal channels.
