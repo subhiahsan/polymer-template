@@ -51,6 +51,7 @@ cp .env.example .env
 
 This will enable you to sign transactions with your private key(s). If not added, the scripts from the justfile will fail.
 
+.
 ### Configuration file
 
 The configuration file is where all important data is stored for the just commands and automation. We strive to make direct interaction with the config file as little as possible.
